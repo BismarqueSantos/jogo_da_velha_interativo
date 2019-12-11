@@ -1,0 +1,26 @@
+#titulo{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.no_padding{
+    padding: 0;
+}
+.blocos{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px;
+}
+#jogo{
+    width: 300px;
+    height: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row{
+    margin: 0 !important;
+}
+a{
+    margin-top: 20px;
+}
